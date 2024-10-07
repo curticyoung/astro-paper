@@ -6,7 +6,6 @@ title: test AstroPaper
 featured: false
 draft: false
 tags:
-  - FAQ
 description:test
 ---
 
