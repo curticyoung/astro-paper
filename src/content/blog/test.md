@@ -1,12 +1,15 @@
 ---
-author: tt
-pubDatetime: 2024-01-08T18:16:00.000Z
-modDatetime:
-title: test AstroPaper
-featured: false
+title: The title of the post
+author: your name
+pubDatetime: 2022-09-21T05:17:19Z
+slug: the-title-of-the-post
+featured: true
 draft: false
 tags:
-description:test
+  - some
+  - example
+  - tags
+ogImage: ""
+description: This is the example description of the example post.
 ---
-
-Hot new platform? 
+test
